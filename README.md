@@ -19,6 +19,18 @@ Other important insights from the exploratory data analysis:
 
 ![Visualisation: Important](newplot.png "Important branch closure locations")
 
+![Visualisation: hoverinfo](hoverinfo.png "Hover info")
+
+![Visualisation: hoverinfo1](hoverinfo1.png "Hover info 1")
+
+![Visualisation: distance](newplot (1).png "Distance")
+
+![Visualisation: Multi-method users](newplot (2).png "Multi-method users")
+
+![Visualisation: Multi-branch users](newplot (3).png "Multi-branch users")
+
+![Visualisation: e-Banking users](newplot (4).png "e-Banking users")
+
 
 The data was copied from [Santander](https://www.santander.co.uk/personal/support/ways-to-bank/our-branches) and entered into an excel file. Latitudes and Longitudes were obtained from [gridreferencefinder.com](https://gridreferencefinder.com/batchConvert/batchConvert.php) and were entered into a different excel file.
 
