@@ -27,7 +27,7 @@ The visualisation's information is displayed in the hover info, as seen in the t
 
 ![Visualisation: hoverinfo](hoverinfo.png "Hover info")
 
-![Visualisation: hoverinfo1](hoverinfo1.png "Hover info 1")
+![Visualisation: hoverinfo2](hoverinfo2.png "Hover info 2")
 
 The combobox widget allows users to focus on information which is important to them.
 
