@@ -17,7 +17,7 @@ Other important insights from the exploratory data analysis:
 - Customers who use a variety of ways to bank and customers who use online banking have the strongest correlation.
 - Longitudes and customers who use a variety of ways to bank have a slight correlation, indicating there is a regional east/west difference in which services are used.
 
-![Visualisation: Important](1.png "Important branch closure locations")
+![Visualisation: Important](newplot.png "Important branch closure locations")
 
 
 The data was copied from [Santander](https://www.santander.co.uk/personal/support/ways-to-bank/our-branches) and entered into an excel file. Latitudes and Longitudes were obtained from [gridreferencefinder.com](https://gridreferencefinder.com/batchConvert/batchConvert.php) and were entered into a different excel file.
