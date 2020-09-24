@@ -1,6 +1,8 @@
 # [Project 3: Santander 2020 Branch Closures](https://github.com/mthorp363/santander_branch_closures/blob/master/Closures_2020.ipynb)
 ## Executive summary
 
+Please note, for the interactive visualisation to work, the notebook and datasets need to be downloded and run. The widget information is saved in the metadata and can be viewed at the end of the notebook.
+
 Santander's 2020 branch closures are in Universities around England, Scotland, Northern Ireland and Wales, leading to the opportunity for targeted marketing within the area, both online and offline. The aim of this project is to identify specific areas where marketing efforts can be best targeted to obtain customers based on the information provided by Santander (distance to nearest alternative branch, customers who use a variety of ways to bank, customers who already use an additional branch, customers who already use e-Banking services). From this information, the following three locations had entries in the top 10 for three of the four categories:
 
 - Cranfield University
